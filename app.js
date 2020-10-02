@@ -10,10 +10,10 @@ function vue(){
         el: '#app',
         methods:{
             searchit(text){
-                alert("Ara:",text);
+                alert("Ara:"+text);
             },
             inputevent(text){
-                alert("Change:",text);
+                alert("Change:"+text);
             }
         }
     });
