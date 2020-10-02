@@ -1,8 +1,10 @@
 # SearchBox
-Demo: <a href="yutpatech.github.io/searchbox">Demo</a><br>
-Searchbox methods: <br>
+## Demo
+Demo: <a href="https://yutpatech.github.io/SearchBox/">Demo</a><br>
+## Props
+Searchbox function props: <br>
 > inputevent(inputText)<br>
 > buttonevent(inputText)<br>
-Searchbox props: <br>
+Searchbox data props: <br>
 > placeholder <br>
 > buttontext
